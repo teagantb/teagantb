@@ -1,5 +1,5 @@
 <a href="#" target="_blank">
-  <img src="svg/thaibinhdev.svg" width="1200" alt="thaibinhdev-official" />
+  <img src="svg/earth.svg" width="1200" alt="thaibinhdev-official" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
