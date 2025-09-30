@@ -51,25 +51,17 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="#!" target="blank">
+  <a href="https://www.facebook.com/Kanobi01/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="thaibinhdev-facebook" />
   </a>
-  <a href="#!" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="thaibinhdev-youtube" />
-  </a>
-  <a href="#!" target="blank">
+  <a href="https://www.linkedin.com/in/thaibinh-uit/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="thaibinhdev-linkedin" />
   </a>
-  <a href="#!" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="thaibinhdev-instagram" />
-  </a>
-  <a href="#!" target="top">
+  <a href="mailto:binhdinhwork@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="thaibinhdev-email" />
   </a>
 </div>
  
-<br>
-<h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
 <a href="#" target="_blank" style="padding: 20px">
   <img src="svg/thaibinh-quotes.svg" width="846" height="150" alt="thaibinh-quotes" />
